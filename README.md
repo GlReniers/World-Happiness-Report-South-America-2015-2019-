@@ -5,7 +5,7 @@ World Happiness Report
 
 # Objective
 
-The purpose of this landmark study was 
+The purpose of this landmark study was to determine variables that affect happiness and rank countries based on how citizens felt about their lives. The report reviews the state of happiness and attempts to quanitfy the qualitative feeling of happiness and use it to help drive policy and make global benificial changes.
 
 # Data
 
